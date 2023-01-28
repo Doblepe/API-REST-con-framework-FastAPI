@@ -152,3 +152,4 @@ sepal_length,sepal_width,petal_length,petal_width,species
 1.0,2.0,3.0,3.0,Sepalo
 1.0,2.0,3.0,3.0,Sepalo
 ,,,,
+10.0,10.0,10.0,10.0,string
